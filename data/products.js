@@ -1,0 +1,15 @@
+export const PRODUCTS = [
+  { id: '1', name: 'Blueberry Pack', category: 'Berry', price: 45000, rating: 4.8, image: '🫐' },
+  { id: '2', name: 'Grape Candy', category: 'Berry', price: 95000, rating: 5.0, image: '🍇' },
+  { id: '3', name: 'Strawberry Korea', category: 'Berry', price: 85000, rating: 5.0, image: '🍓' },
+  { id: '4', name: 'Kiwi Zespri', category: 'Import', price: 60000, rating: 4.8, image: '🥝' },
+  { id: '5', name: 'Semangka Merah', category: 'Lokal', price: 30000, rating: 4.5, image: '🍉' },
+  { id: '6', name: 'Apel Rose', category: 'Import', price: 25000, rating: 4.6, image: '🍎' },
+  { id: '7', name: 'Pisang Sunpride', category: 'Lokal', price: 18000, rating: 4.7, image: '🍌' },
+  { id: '8', name: 'Mangga Arumanis', category: 'Lokal', price: 25000, rating: 4.9, image: '🥭' },
+  { id: '9', name: 'Alpukat Mentega', category: 'Lokal', price: 35000, rating: 4.8, image: '🥑' },
+  { id: '10', name: 'Melon Golden', category: 'Lokal', price: 42000, rating: 4.6, image: '🍈' },
+  { id: '11', name: 'Jeruk Santang', category: 'Import', price: 40000, rating: 4.8, image: '🍊' },
+  { id: '12', name: 'Peach Soft', category: 'Import', price: 55000, rating: 4.9, image: '🍑' },
+  { id: '13', name: 'Cherry Sweet', category: 'Berry', price: 110000, rating: 5.0, image: '🍒' },
+];
