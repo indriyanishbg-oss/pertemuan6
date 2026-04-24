@@ -29,13 +29,13 @@ No, you should not share the ".expo" folder. It does not contain any information
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-![screenshot HP fisik di sini](./image/ss3.jpeg))
-
-### Tampilan Search — saat ada hasil
 ![screenshot HP fisik di sini](./image/ss1.jpeg)
 
-### Tampilan Empty State — saat tidak ada hasil
+### Tampilan Search — saat ada hasil
 ![screenshot HP fisik di sini](./image/ss2.jpeg)
+
+### Tampilan Empty State — saat tidak ada hasil
+![screenshot HP fisik di sini](./image/ss3.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
